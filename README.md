@@ -58,16 +58,6 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
 
-## 📌 On The Side
-
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Building and continuously developing the course curriculum with a team of 4-8 other instructors
-  - Leading classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentoring students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
-
 ## 💬 Languages
 
 **English**: Professional <br>
